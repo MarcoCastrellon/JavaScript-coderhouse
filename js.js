@@ -1,6 +1,6 @@
 let edad = prompt("Ingrese su edad");
 
-while (edad < 18 || "") {
+while (edad < 18 || " " ) {
 
     alert("Usuario menor de edad. Acceso denegado.")
 
